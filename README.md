@@ -6,4 +6,4 @@ Input data is found in the data directory.
 
 The Jupyter Notebook files are used for running and evaluationg the algorithm.
 
-Python and Bash scripts are used to pre-process the input data.
+Python and Bash scripts are used to preprocess the input data.
